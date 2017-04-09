@@ -1,0 +1,15 @@
+{
+  "name": "ac-config",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "main": "config.js",
+  "repository": "oleics/node-ac-config",
+  "dependencies": {
+    "js-yaml": "^3.6.1",
+    "ac-merge": "^1.0.0",
+    "ac-is-array": "^1.0.0",
+    "is-scalar": "^1.0.0"
+  }
+}
